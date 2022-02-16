@@ -38,6 +38,6 @@ and applications have multiple different methods to connect directly to the inst
 exchange data. Users can also connect to the instance by logging in and accessing the
 computer desktop.
 
-### #) Use
+### 3) Use
 
 After you have connected the instance, you can begin using it. You can run commands to install software, add storage, copy and organise files, and much more
